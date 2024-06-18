@@ -70,7 +70,7 @@ h4 {
 .sidenav a {
     text-decoration: none;
     font-size: 15px;
-    color: #042c4c;
+    color: #07487d;
     display: block;
 }
 
@@ -103,6 +103,6 @@ h4 {
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    background-color: #053a64;
-    border-radius: 4px;
+    background-color:#042c4c;
+    border-radius: 5px;
 }
