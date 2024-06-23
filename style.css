@@ -14,19 +14,19 @@ h2 {
 }
 
 h3 {
-    border-bottom: 1px solid #d3d3d3;
+    border-bottom: 1px solid #f1f0f1;
     padding-top: 20px;
     font-size: 18px;
 }
 
 h4 {
-    border-bottom: 1px solid #d3d3d3;
+    border-bottom: 1px solid #f1f0f1;
     font-size: 16px;
     margin-bottom: 5px;
 }
 
 .topnav {
-    background-color: #242729;
+    background-color: #f1f0f1;
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -48,7 +48,7 @@ h4 {
 }
 
 .topnav-right a.active {
-    background-color: #2196F3;
+    background-color: #f1f0f1;
     font-weight: bold;
 }
 
