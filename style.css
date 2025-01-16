@@ -1,7 +1,7 @@
 body {
     font-family: "Lato",Lato Regular, Arial, sans-serif;
     color: #f1f0f1;
-    background-color: #424345;
+    background-color: #222425;
 }
 
 a {
@@ -37,7 +37,7 @@ h5 {
 }
 
 .topnav {
-    background-color: #424345;
+    background-color: #222425;
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -54,12 +54,12 @@ h5 {
 }
   
 .topnav-right a:hover {
-    background-color: #424345;
+    background-color: #222425;
     color: #f1f0f1;
 }
 
 .topnav-right a.active {
-    background-color: #424345;
+    background-color: #222425;
     font-weight: bold;
 }
 
