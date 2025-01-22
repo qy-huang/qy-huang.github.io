@@ -1,6 +1,6 @@
 body {
     font-family: "Lato",Lato Regular, Arial, sans-serif;
-    color: #dbd7d2;
+    color: #dbd7d5;
     background-color: #222425;
 }
 
@@ -19,19 +19,19 @@ h2 {
 }
 
 h3 {
-    border-bottom: 1px solid #dbd7d2;
+    border-bottom: 1px solid #dbd7d5;
     padding-top: 20px;
     font-size: 18px;
 }
 
 h4 {
-    border-bottom: 1px solid #dbd7d2;
+    border-bottom: 1px solid #dbd7d5;
     font-size: 16px;
     margin-bottom: 5px;
 }
 
 h5 {
-    border-bottom: 1px solid #dbd7d2;
+    border-bottom: 1px solid #dbd7d5;
     font-size: 15px;
     margin-bottom: 5px;
 }
@@ -110,7 +110,7 @@ h5 {
     display: inline-block;
     margin-bottom: 3px;
     padding: 7px;
-    color: #dbd7d2;
+    color: #dbd7d5;
     font-size: 12px;
     font-weight: bold;
     text-align: center;
